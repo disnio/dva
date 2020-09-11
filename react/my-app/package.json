@@ -16,7 +16,7 @@
     "grid-styled": "^5.0.2",
     "immer": "^2.1.4",
     "lodash": "^4.17.15",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "ramda": "^0.26.1",
     "react": "16.9.0",
     "react-adopt": "^0.6.0",
