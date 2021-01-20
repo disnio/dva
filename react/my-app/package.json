@@ -14,7 +14,7 @@
     "emotion-normalize": "^10.1.0",
     "graphql": "^14.4.2",
     "grid-styled": "^5.0.2",
-    "immer": "^2.1.4",
+    "immer": "^8.0.1",
     "lodash": "^4.17.15",
     "node-fetch": "^2.6.0",
     "ramda": "^0.26.1",
